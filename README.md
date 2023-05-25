@@ -1,4 +1,6 @@
-This is my professional github repository with code from classes, personal projects, and jobs(where I was given permission to upload to github)
+This is my professional github repository with code from personal projects and classes
+
+note: gullman99 is my personal github repository so if you see him contributing to all my projects, that's me :)
 
 
 
